@@ -1,0 +1,5 @@
+[ 2024-11-06 07:50:14,159 ] 1038 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2024-11-06 07:50:14,912 ] 1038 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2024-11-06 07:50:14,916 ] 45 root - INFO - Total Tokens: 2372
+[ 2024-11-06 07:50:14,916 ] 46 root - INFO - Total Cost: $0.0
+[ 2024-11-06 07:50:14,916 ] 47 root - INFO - Total Prompt Cost: $1692
